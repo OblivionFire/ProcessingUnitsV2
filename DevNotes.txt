@@ -1,0 +1,10 @@
+This is simply for links to the project management files. Most of my planning is gonna be done in one note and word,
+and the project managment will be done on trello
+
+
+OneNote dev notebook
+(Project overveiw, dev details, bug lists, ect. ect.)
+https://1drv.ms/u/s!AvQKgFGNH51egYZcNUsZUxPNeiydjg?e=dpYjn0
+
+Trello
+https://trello.com/invite/b/Bi6sGIom/13e89604664cf01873d169ad407089cf/processingunitsv2
